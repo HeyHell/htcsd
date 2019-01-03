@@ -7,3 +7,4 @@ Well, this repository contains practice problem solutions.
 * [1b](1b)
 * [2](2)
 * [3a](3a)
+* [3b](3b)
