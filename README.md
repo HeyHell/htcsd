@@ -9,3 +9,4 @@ Well, this repository contains practice problem solutions.
 * [3a](3a)
 * [3b](3b)
 * [4a](4a)
+* [4b](4b)
