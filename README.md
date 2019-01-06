@@ -10,3 +10,5 @@ Well, this repository contains practice problem solutions.
 * [3b](3b)
 * [4a](4a)
 * [4b](4b)
+* [5a](5a)
+* [5b](5b)
